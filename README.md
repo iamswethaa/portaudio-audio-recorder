@@ -1,2 +1,2 @@
 # AudioRecordPlayer-PortAudio
-Audio Record Player Using PortAudio
+PortAudio program to record and play the audio
